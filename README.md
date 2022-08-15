@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring, React**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything, especially tech**
 
 - 📫 How to reach me **dylanpab1@gmail.com**
 
