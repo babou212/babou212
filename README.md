@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Anything, especially tech**
 
-- 📫 How to reach me **dylanpab1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
