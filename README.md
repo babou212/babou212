@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate full stack devloper</h3>
 
-- 🌱 I’m currently working with **Spring, React.js, Elixir/ Phoenix**
+- 🌱 I’m currently working with **Spring, React.js, NextJS**
 
 - 💬 Ask me about **Anything, especially tech**
 
